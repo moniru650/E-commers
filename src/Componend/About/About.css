@@ -1,0 +1,19 @@
+.navitem {
+  margin: 0px;
+  background-color: #176c04;
+}
+
+.navitem ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.navitem ul li{
+  list-style: none;
+  padding: 10px 50px;
+}
+.navitem ul li a{
+  text-decoration: none;
+  font-size: 25px;
+  color: #fff;
+}

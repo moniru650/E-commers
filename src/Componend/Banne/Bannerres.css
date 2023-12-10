@@ -1,0 +1,47 @@
+@media(max-width: 1200px){
+    .text h5 {
+        margin-left: 164px;
+    }
+}
+
+@media(max-width: 1024px){
+    .text h5 {
+        width: 250px;
+        background-color: #176c04;
+        height: 2px;
+        margin-bottom: 40px;
+        margin-top: 15px;
+        margin-left: 118px;
+    }
+    @media(max-width: 912px){
+        .text h5 {
+        margin-left: 315px;
+        }
+    }
+
+    @media(max-width: 768px){
+        .text h5 {
+            width: 142px;
+            background-color: #176c04;
+            height: 2px;
+            margin-bottom: 40px;
+            margin-top: 15px;
+            margin-left: 292px;
+        }
+        }
+    @media(max-width: 768px){
+        .text h5 {
+            width: 142px;
+            background-color: #176c04;
+            height: 2px;
+            margin-bottom: 40px;
+            margin-top: 15px;
+            margin-left: 206px;
+        }
+    }
+    @media(max-width: 768px){
+        .banner1 {
+          height: 473px;
+        }
+    }    
+}

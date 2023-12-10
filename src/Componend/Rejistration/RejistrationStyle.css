@@ -1,0 +1,38 @@
+.regi{
+    color: #176c04;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.mt-3{
+    color: #176c04;
+}
+.text-left{
+    display: flex;
+    justify-content: center;
+}
+.subone{
+    border: none;
+    background-color: #176c04;
+    color: aliceblue;
+    padding: 10px 15px;
+    border-radius: 10px 0px 10px 0px;
+    font-weight: 500;
+}
+#exampleCheck1{
+    margin-bottom: 100px;
+}
+.form-check-input {
+    position: absolute;
+    margin-top: -0.7rem;
+    margin-left: -1.25rem;
+}
+.form-check-label{
+    margin-top: 20px;
+}
+.goto h3{
+    color: #176c04;
+    margin: 10px 0;
+    font-weight: 500;
+    list-style: none;
+    text-decoration: none;
+}

@@ -1,0 +1,13 @@
+.onetime{
+    margin-top: 50px;
+}
+.onetime h1{
+    color: #176c04;
+    font-size: 45px;
+}
+.onetime p{
+    color: #176c04;
+    margin: 20px;
+    font-size: 18px;
+    font-weight: 500;
+}

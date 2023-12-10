@@ -1,0 +1,50 @@
+.special {
+  /* float: left;  */
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+}
+.spice{
+  margin-top: 100px;
+  background-image: url("../../../public/IMG/Five1.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.special h2 {
+ font-size: 40px;
+ color: #176c04;
+ margin-top: 15px;
+}
+.special h3 {
+font-size: 27px;
+color: #176c04;
+margin-top: 15px;
+}
+.special h4 {
+ font-size: 20px;
+ color: #176c04;
+ letter-spacing: 8px;
+ margin-top: 15px;
+}
+.special p {
+font-weight: 500;
+ color: #176c04;
+ margin-top: 15px;
+}
+.btn3{
+  border: none;
+  padding: 5px 15px;
+  background-color: #176c04;
+  margin-top: 15px;
+  color: aliceblue;
+  font-weight: 500;
+  border-radius: 10px 0px 10px 0px;
+  float: left;
+}
+.sale{
+  /* float: left; */
+  text-align: left;
+}
+
+

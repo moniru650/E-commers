@@ -1,0 +1,27 @@
+@media(max-width: 1200px){
+    .eat {
+        margin-top: 13px;
+        color: #176c04;
+    }
+    .card p {
+        margin-top: 4px;
+    }
+    .btn3 {
+        margin-top: -7px;
+    }
+ @media(max-width: 1024px){
+    .onbut {
+        margin-bottom: 30px;
+    }
+@media(max-width: 1024px){
+    .eat {
+    margin-top: 100px;
+    color: #176c04;
+    }
+    .btn3 {
+        margin-top: 9px;
+        margin-bottom: 10px;
+    }
+}
+ }
+}

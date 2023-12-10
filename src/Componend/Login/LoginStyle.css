@@ -1,0 +1,41 @@
+.fromsubmit h2{
+    font-weight: bold;
+    color: #176c04;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.form-group{
+    width: 450px;
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(1, 71, 96);
+    padding-bottom: 50px;
+    color: white;
+   
+}
+label{
+   font-size: 25px;
+   color: #fafff9;
+   font-weight: 500;
+   color: rgb(255, 255, 255);
+}
+input{
+    background-color: #176c04;
+    border: 1px solid dotted;
+    color: goldenrod;
+}
+button{
+    margin-top: 30px;
+}
+.submittwo{
+    border: none;
+    background-color: #176c04;
+    color: aliceblue;
+    padding: 10px 15px;
+    border-radius: 10px 0px 10px 0px;
+    font-weight: 500;
+}
+.regi{
+    text-decoration: none;
+    list-style: none;
+}

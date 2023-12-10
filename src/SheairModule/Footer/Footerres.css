@@ -1,0 +1,28 @@
+@media(max-width: 912px){
+    .imgg2 {
+        text-align: left;
+        margin-top: 90px;
+    }
+};
+@media(max-width: 570px){
+    .footimg h1{
+        font-size: 30px;
+
+    }
+    .big h1 {
+        color: aliceblue;
+        font-size: 35px;
+    }
+}
+@media(max-width: 480px){
+    .imgg2 {
+        margin-top: 19px;
+    }
+    .imgg1 {
+        margin-top: 20px;
+    }
+    .big h1 {
+        color: aliceblue;
+        font-size: 33px;
+    }
+}

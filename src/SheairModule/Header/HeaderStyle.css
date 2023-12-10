@@ -1,0 +1,14 @@
+.navbar-brand{
+    font-size: 35px;
+    color: aliceblue !important;
+    font-weight: 600;
+}
+.nav-link{
+    font-size: 25px;
+    color: aliceblue !important;
+    font-weight: 500;
+    margin-right: 15px;
+}
+.nav-item a{
+    text-decoration: none;
+}

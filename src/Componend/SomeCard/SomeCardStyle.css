@@ -1,0 +1,39 @@
+.somecard{
+    margin-top: 100px;
+}
+.basic{
+    background-color: #229c0d;
+    padding: 50px 0px;
+    color: aliceblue;
+}
+.standart{
+    background-color: #229c0d;
+    padding: 50px 0px;
+    color: aliceblue;
+}
+.premium{
+    background-color: #229c0d;
+    padding: 50px 0px;
+    color: aliceblue;
+}
+.btn3{
+  border: none;
+  padding: 5px 15px;
+  background-color: #176c04;
+  margin-top: 15px;
+  color: aliceblue;
+  font-weight: 500;
+  border-radius: 10px 0px 10px 0px;
+  float: left;
+}
+.mainbutton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.card p{
+    margin-top: 15px;
+    color: #176c04;
+    font-weight: 500;
+}

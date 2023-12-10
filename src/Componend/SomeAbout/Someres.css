@@ -1,0 +1,22 @@
+@media(max-width: 570px){
+    .nonstop h1 {
+        color: #176c04;
+        font-size: 28px;
+    }
+    .blok h2 {
+        margin-top: -21px;
+    }
+    .bloging {
+        margin-top: 29px;
+    }
+}
+@media(max-width: 480px){
+    .text h5 {
+        margin-left: 147px;
+    }
+}
+@media(max-width: 320px){
+    .text h5 {
+     margin-left: 75px;
+    }
+}

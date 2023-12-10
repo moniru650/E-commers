@@ -1,0 +1,38 @@
+.mainitem{
+    display: flex;
+    justify-content: space-between;
+}
+.mainchild{
+    margin-right: 50px;
+}
+.Item{
+    margin-top: 100px;
+}
+.justify{
+    text-align: justify;
+    color: #176c04;
+    font-weight: 500;
+}
+.mainitem h2{
+    font-size: 30px;
+    color: #176c04;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.mainitem h3{
+  font-size: 30px;
+  color: #176c04;
+}
+.btn2{
+  border: none;
+  padding: 5px 15px;
+  background-color: #176c04;
+  margin-top: 15px;
+  color: aliceblue;
+  font-weight: 500;
+  border-radius: 10px 0px 10px 0px;
+  float: left;
+}
+.two{
+    margin-top: 25px;
+}

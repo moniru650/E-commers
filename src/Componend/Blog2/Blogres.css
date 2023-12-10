@@ -1,0 +1,17 @@
+@media(max-width: 1200px){
+    .blok h2 {
+        margin-top: -25px;
+    }
+}
+
+@media(max-width: 1024px){
+    .blok h2 {
+        margin-top: -53px;
+    }
+}
+
+@media(max-width: 570px){
+    .blok h2 {
+        font-size: 30px;
+    }
+}

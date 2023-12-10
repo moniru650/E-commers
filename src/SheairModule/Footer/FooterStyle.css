@@ -1,0 +1,37 @@
+.foot{
+    margin-top: 100px;
+    background-color: #176c04;
+}
+.footimg .fa-solid{
+    font-size: 70px;
+    color: aliceblue;
+    margin: 30px 0px;
+}
+.big h1{
+    color: aliceblue; 
+    font-size: 40px;
+}
+.foot h3{
+    color: aliceblue; 
+}
+.foot .fa-brands{
+    color: aliceblue; 
+    font-size: 30px;
+    margin: 10px;
+    padding: 5px;
+    margin-bottom: 50px;
+}
+.side h4{
+    color: aliceblue;
+    margin-bottom: 50px;
+    letter-spacing: 8px;
+}
+.imgg1{
+    text-align: r;
+    margin-top: 70px;
+}
+.imgg2{
+    text-align: left;
+    margin-top: 290px;
+
+}

@@ -1,0 +1,10 @@
+.sale{
+    background-image: url("../../../public//IMG/SIX1.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+}
+.saletext1t{
+    text-align: right;
+}
